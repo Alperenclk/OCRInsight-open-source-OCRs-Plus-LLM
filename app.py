@@ -21,11 +21,22 @@ st.title("OCR ve LLM Uygulaması")
 # Sol kenar çubuğu
 st.sidebar.header("Ayarlar")
 
+
+
+# Function to save text to file
+def save_text_to_file(text, filename):
+    with open(filename, 'w', encoding='utf-8') as f:
+        f.write(text)
+        f.write(time.strftime("%Y-%m-%d %H:%M:%S"))
+        f.write("-"*50)
+    st.success(f"{filename} başarıyla kaydedildi!")
+
 # Cihaz seçimi
 device = st.sidebar.radio(
     "Cihaz Seçin",
     ["CPU", "GPU (CUDA)"]
 )
+save_output = st.sidebar.checkbox("Çıktıları Kaydet")
 
 # Language selection
 language = st.sidebar.selectbox(
@@ -53,6 +64,7 @@ llm_model = st.sidebar.selectbox(
     "LLM Modeli Seçin",
     ["Only OCR Mode", "llama3.1", "llama3", "gemma2"]
 )
+
 
 # Conditional UI elements based on LLM model selection
 if llm_model != "Only OCR Mode":
@@ -95,6 +107,7 @@ if uploaded_file is not None:
         images = [Image.open(uploaded_file)]
         total_pages = 1
     
+    all_ocr_text = ""  # To store all OCR text
     for page_num, image in enumerate(images, start=1):
         st.image(image, caption=f"Sayfa {page_num}/{total_pages}", use_column_width=True)
         
@@ -118,6 +131,8 @@ if uploaded_file is not None:
             
             os.unlink(file_path)
         
+        all_ocr_text += f"--- Sayfa {page_num} ---\n{text}\n\n"
+        
         st.subheader(f"OCR Sonucu (Sayfa {page_num}/{total_pages}):")
         st.text(text)
     
@@ -126,15 +141,20 @@ if uploaded_file is not None:
     
     st.info(f"İşlem süresi: {process_time:.2f} saniye")
     
+    # Save OCR output if selected
+
+    if save_output:
+        save_text_to_file(all_ocr_text, "ocr_output.txt")
+
     # LLM processing
     if llm_model != "Only OCR Mode" and st.sidebar.button("LLM İşlemini Başlat"):
         st.subheader("LLM İşlem Sonucu:")
         
         # Prepare the prompt based on the task type
         if task_type == "Özetle":
-            prompt = f"Lütfen aşağıdaki metni özetle. Komut: {user_command}\n\nMetin: {text}"
+            prompt = f"Lütfen aşağıdaki metni özetle. Komut: {user_command}\n\nMetin: {all_ocr_text}"
         else:  # "Oluştur"
-            prompt = f"Lütfen aşağıdaki metne dayanarak yeni bir metin oluştur. Komut: {user_command}\n\nMetin: {text}"
+            prompt = f"Lütfen aşağıdaki metne dayanarak yeni bir metin oluştur. Komut: {user_command}\n\nMetin: {all_ocr_text}"
         
 
         response = ollama.chat(model=llm_model, messages=[
@@ -150,6 +170,10 @@ if uploaded_file is not None:
         # Display the result
         st.write(f"'{llm_model}' modeli kullanılarak işlem tamamlandı.")
         st.text_area("LLM Çıktısı:", value=llm_output, height=300)
+        
+        # Save LLM output if selected
+        if save_output:
+            save_text_to_file(llm_output, "llm_output.txt")
             
 
 st.sidebar.info(f"Seçilen cihaz: {device}")
