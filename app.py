@@ -1,7 +1,6 @@
 import streamlit as st
-import pytesseract
 from PIL import Image
-import pdf2image
+import fitz  # PyMuPDF
 import easyocr
 import cv2
 import numpy as np
@@ -12,6 +11,9 @@ from doctr.models import ocr_predictor
 import tempfile
 import os
 import time
+import io
+import json
+import ollama
 
 # Streamlit uygulamasını oluştur
 st.title("OCR ve LLM Uygulaması")
@@ -43,25 +45,31 @@ language_codes = {
 # OCR model seçimi
 ocr_model = st.sidebar.selectbox(
     "OCR Modeli Seçin",
-    ["Tesseract", "EasyOCR", "DocTR"]
+    [ "EasyOCR", "DocTR"]
 )
 
 # LLM model seçimi
 llm_model = st.sidebar.selectbox(
     "LLM Modeli Seçin",
-    ["llama3.1", "llama3", "gemma2"]
+    ["Only OCR Mode", "llama3.1", "llama3", "gemma2"]
 )
+
+# Conditional UI elements based on LLM model selection
+if llm_model != "Only OCR Mode":
+    user_command = st.sidebar.text_input("Komut girin:", "")
+    
+    task_type = st.sidebar.radio(
+        "İşlem türünü seçin:",
+        ["Özetle", "Oluştur"]
+    )
 
 # GPU kullanılabilirliğini kontrol et
 if device == "GPU (CUDA)" and not torch.cuda.is_available():
     st.sidebar.warning("GPU (CUDA) kullanılamıyor. CPU'ya geçiliyor.")
     device = "CPU"
 
-# OCR modellerini yükle
-if ocr_model == "Tesseract":
-    # Tesseract doesn't require explicit initialization
-    pass
-elif ocr_model == "EasyOCR":
+
+if ocr_model == "EasyOCR":
     reader = easyocr.Reader([language_codes[language]], gpu=(device == "GPU (CUDA)"))
 elif ocr_model == "DocTR":
     doctr_model = ocr_predictor(pretrained=True)
@@ -73,8 +81,16 @@ if uploaded_file is not None:
     start_time = time.time()
     
     if uploaded_file.type == "application/pdf":
-        images = pdf2image.convert_from_bytes(uploaded_file.read())
-        total_pages = len(images)
+        pdf_document = fitz.open(stream=uploaded_file.read(), filetype="pdf")
+        images = []
+        for page_num in range(len(pdf_document)):
+            page = pdf_document.load_page(page_num)
+            pix = page.get_pixmap()
+            img_data = pix.tobytes("png")
+            img = Image.open(io.BytesIO(img_data))
+            images.append(img)
+        total_pages = len(pdf_document)
+        pdf_document.close()
     else:
         images = [Image.open(uploaded_file)]
         total_pages = 1
@@ -82,15 +98,12 @@ if uploaded_file is not None:
     for page_num, image in enumerate(images, start=1):
         st.image(image, caption=f"Sayfa {page_num}/{total_pages}", use_column_width=True)
         
-        # OCR işlemi
-        if ocr_model == "Tesseract":
-            text = pytesseract.image_to_string(image, lang=language_codes[language])
-        elif ocr_model == "EasyOCR":
+        if ocr_model == "EasyOCR":
             result = reader.readtext(np.array(image))
             text = "\n".join([res[1] for res in result])
         elif ocr_model == "DocTR":  # DocTR
-            with tempfile.NamedTemporaryFile(delete=False, suffix=os.path.splitext(uploaded_file.name)[1]) as tmp_file:
-                image.save(tmp_file, format=image.format)
+            with tempfile.NamedTemporaryFile(delete=False, suffix=".png") as tmp_file:
+                image.save(tmp_file, format="PNG")
             
             file_path = tmp_file.name
             doc = DocumentFile.from_images(file_path)
@@ -113,17 +126,30 @@ if uploaded_file is not None:
     
     st.info(f"İşlem süresi: {process_time:.2f} saniye")
     
-    # LLM işlemi
-    if st.button("Metni Özetle veya Düzenle"):
-        # Burada Ollama'ya istek gönderme işlemi yapılacak
-        # Örnek olarak:
-        # response = requests.post("http://localhost:11434/api/generate", json={
-        #     "model": llm_model,
-        #     "prompt": f"Özet: {text}"
-        # })
-        # summary = response.json()["response"]
-        # st.subheader("Özet:")
-        # st.write(summary)
-        st.warning("LLM işlemi henüz uygulanmadı. Ollama entegrasyonu gerekiyor.")
+    # LLM processing
+    if llm_model != "Only OCR Mode" and st.sidebar.button("LLM İşlemini Başlat"):
+        st.subheader("LLM İşlem Sonucu:")
+        
+        # Prepare the prompt based on the task type
+        if task_type == "Özetle":
+            prompt = f"Lütfen aşağıdaki metni özetle. Komut: {user_command}\n\nMetin: {text}"
+        else:  # "Oluştur"
+            prompt = f"Lütfen aşağıdaki metne dayanarak yeni bir metin oluştur. Komut: {user_command}\n\nMetin: {text}"
+        
+
+        response = ollama.chat(model=llm_model, messages=[
+            {
+                'role': 'user',
+                'content': prompt,
+            },
+            ])
+
+
+        llm_output = result['message']['content']
+        
+        # Display the result
+        st.write(f"'{llm_model}' modeli kullanılarak işlem tamamlandı.")
+        st.text_area("LLM Çıktısı:", value=llm_output, height=300)
+            
 
 st.sidebar.info(f"Seçilen cihaz: {device}")
