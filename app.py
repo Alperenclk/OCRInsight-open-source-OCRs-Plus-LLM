@@ -24,11 +24,14 @@ st.sidebar.header("Ayarlar")
 
 
 # Function to save text to file
-def save_text_to_file(text, filename):
-    with open(filename, 'w', encoding='utf-8') as f:
-        f.write(text)
-        f.write(time.strftime("%Y-%m-%d %H:%M:%S"))
-        f.write("-"*50)
+def save_text_to_file(attributes_of_output, all_ocr_text, filename):
+    with open(filename, 'a', encoding='utf-8') as f:
+        f.write("\n"+"-"*75+"\n")
+        f.write("Attributes of Output:\n")
+        f.write(attributes_of_output)
+        f.write("\nOCR Result:\n")
+        f.write(all_ocr_text)
+        f.write("\n"+"-"*75+"\n")
     st.success(f"{filename} başarıyla kaydedildi!")
 
 # Cihaz seçimi
@@ -144,7 +147,13 @@ if uploaded_file is not None:
     # Save OCR output if selected
 
     if save_output:
-        save_text_to_file(all_ocr_text, "ocr_output.txt")
+        attributes_of_output = {"Model Name": ocr_model, 
+                      "Language": language, 
+                      "Device": device, 
+                      "Process Time": process_time
+                      }
+
+        save_text_to_file(json.dumps(attributes_of_output, ensure_ascii=False), all_ocr_text, "ocr_output.txt")
 
     # LLM processing
     if llm_model != "Only OCR Mode" and st.sidebar.button("LLM İşlemini Başlat"):
