@@ -153,6 +153,7 @@ streamlit run app.py
 **OCR Results:** View the OCR results from the selected models.
 
 **LLM Processing:** Perform LLM processing on the combined OCR text (if enabled).
+
 ## Notes
 **Language Support:**
 
