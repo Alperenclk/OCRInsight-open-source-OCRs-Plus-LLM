@@ -1,7 +1,7 @@
 # OCRInsight
 This Streamlit application allows users to perform OCR (Optical Character Recognition) using multiple open-source OCR engines and optionally process the OCR results using LLMs (Large Language Models). Users can compare the outputs of different OCR models and perform tasks such as summarization or text generation based on the OCR results.
 
-
+Here the link of comprehensive explanation: (https://medium.com/@alperenclk/ocrinsight-building-a-modular-ocr-and-llm-application-f3d3a1ea7a18)
 ![alt text](https://github.com/Alperenclk/All_OCR-s_tools/blob/main/sample_files/sample_screen.png?raw=true)
 
 ## Features
