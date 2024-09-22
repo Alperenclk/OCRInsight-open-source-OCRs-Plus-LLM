@@ -1,0 +1,370 @@
+
+---------------------------------------------------------------------------
+Attributes of Output:
+{"Model Names": ["EasyOCR"], "Language": "Türkçe", "Device": "CPU", "Process Time": 0.6307122707366943}
+OCR Result:
+--- Page 1 (EasyOCR) ---
+Genel olarak sağ elinlz ne kadar iyl çalıştı?
+Sağ parmaklannız ne kadar iyi hareket etti?
+Sağ bileğiniz ne kadar iyi hareket etti?
+Sağ elinizin kuvveti nasıldı?
+Sağ elinizde
+(his) nasıldı?
+duyu
+
+
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+Attributes of Output:
+{"Model Names": ["DocTR", "EasyOCR"], "Language": "Türkçe", "Device": "CPU", "Process Time": 1.7959399223327637}
+OCR Result:
+--- Page 1 (EasyOCR) ---
+Genel olarak sağ elinlz ne kadar iyl çalıştı?
+Sağ parmaklannız ne kadar iyi hareket etti?
+Sağ bileğiniz ne kadar iyi hareket etti?
+Sağ elinizin kuvveti nasıldı?
+Sağ elinizde
+(his) nasıldı?
+duyu
+
+
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+Attributes of Output:
+{"Model Names": ["DocTR", "EasyOCR"], "Language": "Türkçe", "Device": "CPU", "Process Time": 1.8714756965637207}
+OCR Result:
+--- Page 1 (EasyOCR) ---
+Genel olarak sağ elinlz ne kadar iyl çalıştı?
+Sağ parmaklannız ne kadar iyi hareket etti?
+Sağ bileğiniz ne kadar iyi hareket etti?
+Sağ elinizin kuvveti nasıldı?
+Sağ elinizde
+(his) nasıldı?
+duyu
+
+
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+Attributes of Output:
+{"Model Names": ["EasyOCR", "Tesseract", "DocTR"], "Language": "English", "Device": "CPU", "Process Time": 31.933929920196533}
+OCR Result:
+--- Page 1 (EasyOCR) ---
+ALPEREN CELIK
++yu ,isssisiu
+AerlS7Gtuicut
+AukELLOlllIW/Aluteu-celk-/414S1G
+Kthu CUt
+Aluerenclk /
+Educanou
+Afyon Kocatepe
+Universitu
+2U18
+Jan '2U244
+Becd-
+Wce
+EngmetinS
+ueau
+Cuursewors
+Lruncl
+Intelligence
+Sulttitt
+Methextlolugy
+DAlLc
+MatagCMLEut
+JcA
+Tecltolxy
+Cotupute
+Vsiol
+Algurithts
+AMNI:
+Dal Struceu
+XSLett
+PozHAing
+Experience
+Novelty
+Sep 2028
+Preemt
+AI{ML Engiutt'
+Gluzl _
+TuT(Jut
+veuc
+Ict ILLLcACLUM fsem   waEe
+USILE deek
+Jeautniug
+teciutles
+s * SLIIL MITL
+cELS
+JCurInI=
+#pLIMAZI= custumer authiettcatioln
+UEuC3s; Au Mi suclsslul;
+JHUeteteu
+l
+MT
+u
+Jalaged tle
+MsI;cM
+Faol
+(ABB
+tle productict Iitje _
+ptueci
+Doudrdouulex #uouabclnauutiuts
+E_HIC rulol I
+ALC MCEURC UPXCLUM]
+eflicietcy-
+Lalue
+CUELAAELC
+uk
+eveloue
+(at QHable=
+L; UEuiLSML A U
+MLUHAOU
+Suiest
+~utwit USlt= Puthutt
+IEMc DolFML [Lclelacc
+0Jikl
+UELAALY_
+develope
+ncllIM aa
+applicatin that checks
+MuuM
+Muaa
+mukluet lalels on the
+prouluction Iine .
+Universitv
+Malta
+Jul 2u23
+AuS 2023 (3 mos)
+Rec
+Multu
+WuLe
+FM umR Ca
+K[
+pet hottl:
+a
+Jck #ufc
+inte Illgetee .
+FBLI
+Fatl
+JitgMiyes
+prujec
+TC Diyanet isleri Daskanlgi
+Ni
+ZUlJ
+Jul 2022 (3 yra
+MJOSI
+Servuf (
+Auun UtJisu _
+TuT(Jut
+Wle STI]VL _eclulez-
+Eueeg
+MEOI;
+Wuke
+C ;CY[
+MVILE.
+113t
+Iiee tS_
+value that tils juls akdledl
+derJur [TAC dSCAEML"
+tleter uat IclL
+ut)
+Illt (ulleli *ol
+wutk Iit
+Dalce
+DHMI
+Erzunun
+Airport
+Jul 2U22
+2022
+MORI
+Auchutiue:
+Exeeet
+Iuter
+Erzu 4J{A
+TuT(Jut
+uckl
+ueru
+irLi
+ulSUs
+electrule LE
+X-t devices
+teHinal electronic My
+SeuicMHIC
+Ll IFUl
+[LS LcAMP %iatMl ColAlC FUk 4EWLC AEla
+IELTe ICAtlMaIL [CCMLUYR
+codarion
+2021
+Jul "Z
+Pedlu
+De
+K
+Ivux
+Tutiye
+cl
+MuCd
+TTLAl HL CU:[eE
+TACL >F1CM
+cargo delivery: My Wain achlereJleut #als
+Iemttg
+u
+M
+Frojects
+Peraqualked
+Pruduc
+Analysis wich AI
+Puk
+Net.
+Hnct Clatu
+203
+#pplication
+ataiuleu
+Qel USeI:
+Wfurtual
+M lt
+M
+Ge
+MECILLAJIY Decis
+By uplonaling #
+pelu
+tle potluct"
+iuguexlicuts,
+Uset GL 2el
+daraily #uales
+how" ?uitable aud Lxuefielal te petluct
+m
+The Applcaclon
+tlie [uuluet with Atificial
+intelllgenc:
+Mdemtln ? aulritce=
+C
+alletzie?
+e em
+Huuea
+Hleucife
+Doudas
+M MaT
+Rui
+product 
+T ' UFaa
+WR
+Liamuan
+Tlaul;
+thls applcaclon
+BTk Aeuety"
+Huaw ej Cucllug Marathon
+Mulce
+Vew
+Breast Cancer
+Clasalficatiun
+Pgthon. PyQtss
+Deep Jetc
+Apr 2022
+FtiL Ti' :UM"
+Tektulest artlcl] mtelluence
+lelth coletitull_
+CLiIL
+GuLilLd UY
+develjing
+Juulti-uudel deep leatuiug uetwak
+tlie dmeISI
+brenst Caucets sucurdtL
+MeLLI"
+HLA]st
+Uutical
+Charaeter Recoguition
+Aa
+Stremlit
+Pvn
+Staxurtt.
+Hadwefuc
+202a
+OCR
+Opeleal Characte
+Recuutil| [CCMUluy  Mis Iriledoned Mou
+teruc WIII textual cutett
+tle digital
+Jealu By cutvelting itage>
+TmMtL
+LUCIILICM3
+iLCumer MeU To €taule
+srclile tex_
+OCK e"alile?
+extract Wilu:LH
+MLLUlion
+ht dnvere auuce
+Sep:
+TeettLA
+coyet"
+JA 
+Dug
+AS Wl
+4u
+4ug
+kh
+404u
+uu
+
+--- Page 2 (EasyOCR) ---
+Technical Skills
+Languages:
+Fytlon €} C++-
+Matlal SQL.
+RukuStudl
+FLC
+Developer
+Tuula:
+Taue #lue
+Pytorch Guogl Clouel Flatfottu
+Huawel Cludl
+Techuologies
+autneworke
+Linux . GitHub. Selen_
+W
+Certilicates
+Tekuuleer
+Fluillat
+Cercileate T; Fouulaticn
+BTK
+ChdT
+eae
+Codlug
+Martlou
+Cetfc
+Cmpetitic Winuing (cd)
+EITCA
+Artaclal
+Intelligeuce
+ACha
+Certncates
+:Euro[an
+Uulu
+TeugorFlor
+Laten
+Teclulane
+Specializatlon
+Cuueari
+Google
+Cloud
+Expertise  Guogle
+Expert Traluing Program
+Womne
+Republic OF Tikiye Minisuty
+'Indlustiy
+Tehology
+Mr u
+Nacke
+Learmg
+Productou
+Cuuer
+Hauds-On ROS Tralniug
+Eitk
+Python :Udletny
+Itage processlug
+wtk dcer
+learuiug : Udlemy
+
+
+---------------------------------------------------------------------------
