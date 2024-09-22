@@ -27,7 +27,7 @@ if not os.path.exists("results"):
     os.makedirs("results")
 
 # Streamlit application
-st.title("OCR and LLM Application")
+st.title("OCRInsight")
 
 # Sidebar
 st.sidebar.header("Settings")
