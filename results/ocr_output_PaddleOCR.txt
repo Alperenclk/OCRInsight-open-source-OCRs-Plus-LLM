@@ -1,0 +1,223 @@
+
+---------------------------------------------------------------------------
+Attributes of Output:
+{"Model Names": ["PaddleOCR"], "Language": "English", "Device": "CPU", "Process Time": 13.193224430084229}
+OCR Result:
+--- Page 1 (PaddleOCR) ---
+ALPEREN
+CELIK
++90 5453851876
+ alperenclk18760gmail.cominlinkedin.com/in/alperen-celik-7919a5163/
+ github.com/Alperenclk/
+Education
+Afyon Kocatepe University
+Sep. 2018  Jan 2024
+Bachelor of Mechatronic Engineering
+3.1 gpa
+Relevant Coursework
+ Artificial Intelligence
+ Software Methodology
+ Database Management
+ Internet Technology
+ Computer Vision
+ Algorithms Analysis
+ Data Structures
+ Systems Programming
+Experience
+Novelty AI
+Sep 2023  Present
+AI/ML Engineer
+Gebze, Turkiye
+ I developed identification system software for a bank using deep learning techniques. This system aimed to increase
+security by optimizing customer authentication processes and was successfully implemented.
+At a defense industry company, I managed the installation of industrial robots (ABB) on the production line. In this
+project, I provided complex automation solutions to integrate robotic systems and increase operational efficiency.
+For one of the leading telecom companies in Turkey, I developed software that enables live broadcasting and OTT
+automation with Suitest software using Python and image processing techniques.
+ For a beverage company, I was part of the team that developed an artificial intelligence application that checks the
+recognition and accuracy of product labels on the production line.
+University of Malta
+Jul 2023  Aug 2023 (3 mos)
+AI Researcher
+Malt
+I worked on a semi-autonomous drone that tries to detect waste pet bottles on beaches with artificial intelligence. I used
+Python and C++ languages in this project
+TC Diyanet Isleri Baskanlig1
+May 2019  Jul 2022 (3 yrs 3 mos)
+Civil Servant
+Afyonkarhisar, Turkiye
+ While studying Mechatronics Engineering at the university, I worked as a civil servant and earned a living. During these
+three years, the most essential value that this job added to me was to develop myself discipline and determination in
+order to keep the tough school and work life in balance.
+DHMI Erzurum Airport
+Jul 2022  Aug 2022 (2 mos)
+Mechatronics Engineer Intern
+Erzurum, Turkiye
+ I worked as an intern in areas such as sensors, electronic cards, x-ray devices in terminal electronics. My most significant
+gain from this internship was learning corporate work discipline and internal relationship techniques.
+Ecodation
+Jun 2021  Jul 2021 (2 mos)
+Python Developer Intern
+Istanbul, Turkiye
+ I made projects such as navigation and customer tracking system for cargo delivery. My main achievement was learning
+to work as a team.
+Projects
+Personalized Product Analysis with AI | Python, .Net, Huawei Cloud
+Oct 2023
+ Our application is designed to help users make informed and healthy choices when purchasing products. By uploading a
+photo of the product's ingredients, the user can get a detailed analysis of how suitable and beneficial the product is for
+them. The application scans the content of the product with artificial intelligence systems and identifies substances that
+may cause allergies or adverse effects that the user has previously identified. It provides the user with a summary of the
+product's content and the presence or absence of the substances they have identified. Thanks to this application, we
+came 3rd in BTk Academy and Huawei Coding Marathon
+Multi View Breast Cancer Classification App | Python, PyQt5, Deep learning
+Apr 2022
+ Within the scope of Teknofest artificial intelligence in health competition, the team I captained by developing a
+multi-model deep learning network for the diagnosis of breast cancers succeeded in becoming a finalist.
+Optical Character Recognition with Streamlit | Python, Streamlit, Huggingface
+Jan 2024
+ OCR (Optical Character Recognition) technology has transformed how we interact with textual content in the digital
+realm. By converting images, scanned documents, and other media into editable and searchable text, OCR enables us to
+extract valuable information from diverse sources.
+
+--- Page 2 (PaddleOCR) ---
+Technical Skills
+Languages: Python, C/ C++, Matlab, SQL, RobotStudio, Ros, PLC
+Developer Tools: Tensorflow, Pytorch, Google Cloud Platform, Huawei Cloud
+Technologies/Frameworks: Linux, GitHub, Selenium, Docker
+Certificates
+Teknofest Finalist Certificate:T3 Foundation
+BTK Academy And Huawei Coding Marathon :Certificate of Competitio Winning (3rd)
+EITCA Artificial Intelligence Academy 12 Certificates :European Union
+TensorFlow: Advanced Techniques Specialization :Coursera
+Google Cloud Expertise :Google
+AI Expert Training Program 6 months :Republic Of Tirkiye Ministry of Industry and Technology
+Introduction to Machine Learning in Production :Coursera
+Hands-on ROS Training with Python :Udemy
+Image processing with deep learning :Udemy
+
+
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+Attributes of Output:
+{"Model Names": ["PaddleOCR"], "Language": "Türkçe", "Device": "CPU", "Process Time": 6.291873216629028}
+OCR Result:
+--- Page 1 (PaddleOCR) ---
+ALPEREN QELIK
+ +90 5453851876
+ eng.alperengmail.com
+in linkedin.com/in/alperen-celik-7919a5163/
+ github.com/Alperenclk/
+Education
+Afyon Kocatepe University
+Sep. 2018  Jan 2024
+Bachelor of Mechatronic Engincering
+3.1 gpa
+Relevant Coursework
+ Artificial Intelligence
+ Robotics
+ Machine Learning
+ Computer Vision
+ Cloud Systems
+ Deep Learning
+ NLP
+ Database Management
+Experience
+Novelty AI
+Sep 2023  Present
+AI/ML Engincer
+GebzcTurkiye
+ Using advanced Computer Vision and deep learning techniques, I have developed a system that develops billboards that
+provide personalized advertising by analyzing the characteristics of customers who come to stores in shopping malls. This
+system works 15% more successfully than the foreign product previously used.
+ Developed C# software using profile sensors from Sick and Venglor to control parts production for a Japan-based factory
+With this software, we used advanced image processing techniques to process and analyze point cloud data to accurately
+monitor the production process and detect defective parts, increasing the success rate of production to 95%.°
+ I developed identification system software for a bank using deep learning techniques. This system aimed to increase
+security by optimizing customer authentication processes and was successfully implemented.
+_At a defense industry company, I led the installation of ABB industrial robots on a production line. Leveraging advanced
+Computer Vision techniques, I developed a system that commands robots to perform tasks traditionally performed by
+human operators. This project used Artificial Intelligence and robotics to deliver complex automation solutions, greatly
+improving operational efficiency.
+ For one of the leading telecom companies in Turkey, I developed software that enables live broadcasting and OTT
+automation with Suitest software using Python and image processing techniques.
+ For a beverage company, I was part of the team that developed an artificial intelligence application that checks the
+recognition and accuracy of product labels on the production line.
+University of Malta
+Jul 2023  Aug 2023 (3 mos)
+Al Rescarcher
+Malta
+ I worked with a team developing a semi-autonomous drone to detect waste plastic bottles on beaches using artificial
+intelligence. I implemented computer vision algorithms such as Detectron2 in Python for object detection and used C++
+for real-time integration with the drone's control systems, enabling efficient environmental scanning and cleaning.
+DHMI Erzurum Airport
+Jul 2022  Aug 2022 (2 mos)
+Mechatronics Engincer Intern
+Erzurum, Tirkiye
+ I interned in areas such as sensors, electronic cards, and x-ray devices within terminal electronics. The most significant
+gain from this internship was learning corporate work discipline and internal relationship techniques..
+Ecodation
+Jun 2021  Jul 2021 (2 mos)
+Python Developer Intern
+Istanul,Trkiy
+ I worked on projects like a navigation and customer tracking system for cargo delivery. These projects involved
+developing and integrating Python APIs and Flask to streamline data communication and using web scraping techniques
+to gather and analyze relevant information from various sources. My main achievement from these projects was learning
+to work effectively as a team, coordinating with colleagues to tackle complex challenges and deliver cohesive solutions.
+
+--- Page 2 (PaddleOCR) ---
+Projects
+AI-Driven Cryptocurrency Trading Bot Python, LLM, LangChain, AI Agents
+ Developed a cryptocurrency trading bot utilizing Large Language Models (LLMs) and LangChain to enhance trading
+decisions. The bot integrates with the Binance API, executing trades based on real-time market data and technical
+analysis.
+ The LangChain framework and AI agents are used to analyze market trends by combining historical data with current
+information. This setup enables the bot to perform detailed technical analysis and generate actionable insights for
+trading.
+ AI agents process news and social media to assess market sentiment. The bot adjusts its trading strategies based on
+sentiment and technical indicators, aiming to maximize profitability and minimize risk.
+ Python was used for developing the core functionalities and integrating the LangChain system, ensuring the bot's
+efficiency and effectiveness in the volatile cryptocurrency market. The bot also adapts and improves its strategies over
+time through continuous learning.
+Personalized Product Analysis with AI  Python, .Net, Huauei Cloud
+ Our application is designed to help users make informed and healthy choices when purchasing products. By uploading a
+photo of the product's ingredients, the user can get a detailed analysis of how suitable and beneficial the product is for
+them. The application scans the content of the product with artificial intelligence systems and identifies substances that
+may cause allergies or adverse effects that the user has previously identified. It provides the user with a summary of the
+product's content and the presence or absence of the substances they have identified. Thanks to this application, we
+came 3rd in BTk Academy and Huawei Coding Marathon
+Multi View Breast Cancer Classification App  Python, PyQt5, Deep Iearning
+ Within the scope of Teknofest artificial intelligence in health competition, the team I captained by developing a
+multi-model deep learning network for the diagnosis of breast cancers succeeded in becoming a finalist.
+Optical Character Recognition with Streamlit  Python, Streamlit, Huggingface
+_OCR (Optical Character Recognition) technology has transformed how we interact with textual content in the digital
+realm. By converting images, scanned documents, and other media into editable and searchable text, OCR enables us to
+extract valuable information from diverse sources.
+Technical Skills
+Languages: Python, C/ C++, Matlab, SQL, RobotStudio, Ros, PLC
+Developer Tools: Tensorfiow, Pytorch, Google Cloud Platform, Huawei Cloud
+Technologies/Frameworks: Linux, GitHub, HuggingFace, Kaggle, Selenium, Docker
+Certificates
+Teknofest Finalist Certificate: T3 Foundation
+BTK Academy And Huawei Coding Marathon : Certificate of Competitio Winning (3rd)
+EITCA Artificial Intelligence Academy 12 Certificates : European Union
+TensorFlow: Advanced Techniques Specialization : Coursera
+Google Cloud Expertise : Google
+AI Expert Training Program 6 months_ : Republic Of Tirkiye Ministry of Industry and Technology
+Oxford University English B2 Certification : ClubClass Language School MALTA
+Introduction to Machine Learning in Production : Coursera
+Hands-on ROS Training with Python : Udemy
+Image processing with Deep learning : Udemy
+Honors and Open Source Pojects
+-Teknofest Healthcare Competition Finalist
+-BTK Academy and Huawei Coder Marathon Third Place
+-Kaggle Master https://www.kaggle.com/alperenclk
+Some Articles
+https://medium.com/@alperenclk/exploring-optical-character-recognition-ocr-with-streamlit-and-doctr-
+00e95ae36e4e
+https://medium.com/@alperenclk/automating-telegram-game-bot-clicker-with-python-step-by-step-guide-
+1b9206188d06
+
+
+---------------------------------------------------------------------------
