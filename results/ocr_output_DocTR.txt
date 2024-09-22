@@ -1,0 +1,541 @@
+
+---------------------------------------------------------------------------
+Attributes of Output:
+{"Model Names": ["DocTR"], "Language": "Türkçe", "Device": "CPU", "Process Time": 1.2372400760650635}
+OCR Result:
+--- Page 1 (DocTR) ---
+Genel olarak, sag eliniz ne kadar yi çalisti?
+Sag parmaklanniz ne kadar iyi hareket etti?
+Sag bileginiz ne kadar yi hareket etti?
+Sag elinizin kuvveti nasildi?
+Sag elinizde duyu (his) nasildi?
+
+
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+Attributes of Output:
+{"Model Names": ["DocTR", "EasyOCR"], "Language": "Türkçe", "Device": "CPU", "Process Time": 1.7959399223327637}
+OCR Result:
+--- Page 1 (DocTR) ---
+Genel olarak, sag eliniz ne kadar yi çalisti?
+Sag parmaklanniz ne kadar iyi hareket etti?
+Sag bileginiz ne kadar yi hareket etti?
+Sag elinizin kuvveti nasildi?
+Sag elinizde duyu (his) nasildi?
+
+
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+Attributes of Output:
+{"Model Names": ["DocTR", "EasyOCR"], "Language": "Türkçe", "Device": "CPU", "Process Time": 1.8714756965637207}
+OCR Result:
+--- Page 1 (DocTR) ---
+Genel olarak, sag eliniz ne kadar yi çalisti?
+Sag parmaklanniz ne kadar iyi hareket etti?
+Sag bileginiz ne kadar yi hareket etti?
+Sag elinizin kuvveti nasildi?
+Sag elinizde duyu (his) nasildi?
+
+
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+Attributes of Output:
+{"Model Names": ["DocTR"], "Language": "Türkçe", "Device": "CPU", "Process Time": 1.326887845993042}
+OCR Result:
+--- Page 1 (DocTR) ---
+Genel olarak, sag eliniz ne kadar yi çalisti?
+Sag parmaklanniz ne kadar iyi hareket etti?
+Sag bileginiz ne kadar yi hareket etti?
+Sag elinizin kuvveti nasildi?
+Sag elinizde duyu (his) nasildi?
+
+
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+Attributes of Output:
+{"Model Names": ["DocTR"], "Language": "Türkçe", "Device": "CPU", "Process Time": 9.680048942565918}
+OCR Result:
+--- Page 1 (DocTR) ---
+ALPEREN ÇELIK
+- +90 5453851876 peradkisfotgmalcom im.com/m/Aperenell-791aits, 0 llh-com/Alperencls,
+Education
+Afyon Kocatepe University
+Sep. 2018 - Jan 2024
+Bachelor of Mechatronic Engineering
+3.1 gpa
+Relevant Coursework
+Artificial Intelligence
+Software Methodology
+Database Management
+Internet Technology
+Computer Vision
+Algorithms Analysis
+Data Structures
+Systems Programming
+Experience
+Novelty AI
+Sep 2023 - Present
+AI/ML Engineer
+Gebze, Turkiye
+I developed dentification system software for a bank using deep learning techniques. This system aimed to increase
+security by optimizing customer authentication processes and was successfully implemented.
+At a defense industry company, I managed the installation of industrial robots (ABB) on the production line. In this
+project, I provided complex automation solutions to integrate robotic: systems and increase operational efficiency-
+For one of the leading telecom companies in Turkey, I developed software that enables live broadcasting and OTT
+automation with Suitest software using Python and image processing techniques.
+For a beverage company, I was part of the team that developed an artificial intelligence application that checks the
+recognition and accuracy of product labels on the production line.
+University of Malta
+Jul 2023 - Aug 2023 (3 mos)
+AI Researcher
+Maita
+* I worked on a sem-autonomous drone that tries to detect. waste pet bottles on beaches with artificial intelligence. I used
+Python and C++ languages in this project
+TC Diyanet isleri Bagkanhg
+May 2019 - Jul 2022 (3 yrs 3 mos)
+Civil Servant
+Ayonkarhisar, Turkiye
+While studying Mechatronics Engineering at the university, I worked as a civil servant and eammed a living. During these
+three years, the most essential value that this job added to me was to develop myself discipline and determination in
+order to keep the tough school and work life: in balance.
+DHMI Erzurum Airport
+Jul 2022 - Aug 2022 (2 mos)
+Mechatronics Engineer Intern
+Brzurum, Turkiye
+* I worked as an intern in areas such as sensors, electronic cards, x-ray devices in terminal electronics. My most significant
+gain from this internship was learning corporate work discipline and internal relationship techniques.
+Ecodation
+Jun 2021 - Jul 2021 (2 mos)
+Python Developer Intern
+Istanbul, Turkiye
+I made projects such as navigation and customer tracking system for cargo delivery. My main achievement was learning
+to work as a team.
+Projects
+Personalized Product Analysis with AI Python, Net, Huatei Cloud
+Oct 2023
+Our application is designed to help users make informed and healthy choices when purchasing products. By uploading a
+photo of the product's ingredients, the user can get a detailed analysis of how suitable and beneficial the product is for
+them. The application scans the content of the product with artificial intelligence systems and identifies substances that
+may cause allergies or adverse effects that the user has previously dentified. It provides the user with a summary of the
+product's content and the presence or absence of the substances they have identified. Thanks to this application, we
+came 3rd in BIk Academy and Huawei Coding Marathon
+Multi View Breast Cancer Classification App - Python, PyQs, Deep learming
+Apr 2022
+Within the scope of Teknofest artificial intelligence in health competition, the team I captained by developing a
+multi-model deep learning network for the diagnosis of breast cancers succeeded in becoming a finalist.
+Optical Character Recognition with Streamlit I Python, Streamlit, Huggingface
+Jan 2024
+OCR (Optical Character Recognition) technology has transformed how we interact with textual content in the digital
+realm. By converting images, scanned documents, and other media into editable and searchable text, OCR enables us to
+extract valuable information from diverse sources.
+
+--- Page 2 (DocTR) ---
+Technical Skills
+Languages: Python, C/ C++, Matlab, SQL, RobotStudio, Ros, PLC
+Developer Tools: Tensorflow, Pytorch, Google Cloud Platform, Huawei Cloud
+Technologies/Frameworks: Linux, GitHub, Selenium, Docker
+Certificates
+Teknofest Finalist Certificate:13 Foundation
+BTK Academy And Huawei Coding Marathon Certificate of Competitio Winning (3rd)
+EITCA Artificial Intelligence Academy 12 Certificates European Union
+TensorFlow: Advanced Techniques Specialization Coursera
+Google Cloud Expertise Google
+AI Expert Training Program 6 months Republic Of Tirkiye Ministry of Industry and Technology
+Introduction to Machine Learning in Production Coursera
+Hands-on ROS Training with Python :Udemy
+Image processing with deep learning :Udemy
+
+
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+Attributes of Output:
+{"Model Names": ["DocTR"], "Language": "Türkçe", "Device": "CPU", "Process Time": 9.149980068206787}
+OCR Result:
+--- Page 1 (DocTR) ---
+ALPEREN ÇELIK
+- +90 5453851876 peradkisfotgmalcom im.com/m/Aperenell-791aits, 0 llh-com/Alperencls,
+Education
+Afyon Kocatepe University
+Sep. 2018 - Jan 2024
+Bachelor of Mechatronic Engineering
+3.1 gpa
+Relevant Coursework
+Artificial Intelligence
+Software Methodology
+Database Management
+Internet Technology
+Computer Vision
+Algorithms Analysis
+Data Structures
+Systems Programming
+Experience
+Novelty AI
+Sep 2023 - Present
+AI/ML Engineer
+Gebze, Turkiye
+I developed dentification system software for a bank using deep learning techniques. This system aimed to increase
+security by optimizing customer authentication processes and was successfully implemented.
+At a defense industry company, I managed the installation of industrial robots (ABB) on the production line. In this
+project, I provided complex automation solutions to integrate robotic: systems and increase operational efficiency-
+For one of the leading telecom companies in Turkey, I developed software that enables live broadcasting and OTT
+automation with Suitest software using Python and image processing techniques.
+For a beverage company, I was part of the team that developed an artificial intelligence application that checks the
+recognition and accuracy of product labels on the production line.
+University of Malta
+Jul 2023 - Aug 2023 (3 mos)
+AI Researcher
+Maita
+* I worked on a sem-autonomous drone that tries to detect. waste pet bottles on beaches with artificial intelligence. I used
+Python and C++ languages in this project
+TC Diyanet isleri Bagkanhg
+May 2019 - Jul 2022 (3 yrs 3 mos)
+Civil Servant
+Ayonkarhisar, Turkiye
+While studying Mechatronics Engineering at the university, I worked as a civil servant and eammed a living. During these
+three years, the most essential value that this job added to me was to develop myself discipline and determination in
+order to keep the tough school and work life: in balance.
+DHMI Erzurum Airport
+Jul 2022 - Aug 2022 (2 mos)
+Mechatronics Engineer Intern
+Brzurum, Turkiye
+* I worked as an intern in areas such as sensors, electronic cards, x-ray devices in terminal electronics. My most significant
+gain from this internship was learning corporate work discipline and internal relationship techniques.
+Ecodation
+Jun 2021 - Jul 2021 (2 mos)
+Python Developer Intern
+Istanbul, Turkiye
+I made projects such as navigation and customer tracking system for cargo delivery. My main achievement was learning
+to work as a team.
+Projects
+Personalized Product Analysis with AI Python, Net, Huatei Cloud
+Oct 2023
+Our application is designed to help users make informed and healthy choices when purchasing products. By uploading a
+photo of the product's ingredients, the user can get a detailed analysis of how suitable and beneficial the product is for
+them. The application scans the content of the product with artificial intelligence systems and identifies substances that
+may cause allergies or adverse effects that the user has previously dentified. It provides the user with a summary of the
+product's content and the presence or absence of the substances they have identified. Thanks to this application, we
+came 3rd in BIk Academy and Huawei Coding Marathon
+Multi View Breast Cancer Classification App - Python, PyQs, Deep learming
+Apr 2022
+Within the scope of Teknofest artificial intelligence in health competition, the team I captained by developing a
+multi-model deep learning network for the diagnosis of breast cancers succeeded in becoming a finalist.
+Optical Character Recognition with Streamlit I Python, Streamlit, Huggingface
+Jan 2024
+OCR (Optical Character Recognition) technology has transformed how we interact with textual content in the digital
+realm. By converting images, scanned documents, and other media into editable and searchable text, OCR enables us to
+extract valuable information from diverse sources.
+
+--- Page 2 (DocTR) ---
+Technical Skills
+Languages: Python, C/ C++, Matlab, SQL, RobotStudio, Ros, PLC
+Developer Tools: Tensorflow, Pytorch, Google Cloud Platform, Huawei Cloud
+Technologies/Frameworks: Linux, GitHub, Selenium, Docker
+Certificates
+Teknofest Finalist Certificate:13 Foundation
+BTK Academy And Huawei Coding Marathon Certificate of Competitio Winning (3rd)
+EITCA Artificial Intelligence Academy 12 Certificates European Union
+TensorFlow: Advanced Techniques Specialization Coursera
+Google Cloud Expertise Google
+AI Expert Training Program 6 months Republic Of Tirkiye Ministry of Industry and Technology
+Introduction to Machine Learning in Production Coursera
+Hands-on ROS Training with Python :Udemy
+Image processing with deep learning :Udemy
+
+
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+Attributes of Output:
+{"Model Names": ["DocTR"], "Language": "Türkçe", "Device": "CPU", "Process Time": 9.17273736000061}
+OCR Result:
+--- Page 1 (DocTR) ---
+ALPEREN ÇELIK
+- +90 5453851876 peradkisfotgmalcom im.com/m/Aperenell-791aits, 0 llh-com/Alperencls,
+Education
+Afyon Kocatepe University
+Sep. 2018 - Jan 2024
+Bachelor of Mechatronic Engineering
+3.1 gpa
+Relevant Coursework
+Artificial Intelligence
+Software Methodology
+Database Management
+Internet Technology
+Computer Vision
+Algorithms Analysis
+Data Structures
+Systems Programming
+Experience
+Novelty AI
+Sep 2023 - Present
+AI/ML Engineer
+Gebze, Turkiye
+I developed dentification system software for a bank using deep learning techniques. This system aimed to increase
+security by optimizing customer authentication processes and was successfully implemented.
+At a defense industry company, I managed the installation of industrial robots (ABB) on the production line. In this
+project, I provided complex automation solutions to integrate robotic: systems and increase operational efficiency-
+For one of the leading telecom companies in Turkey, I developed software that enables live broadcasting and OTT
+automation with Suitest software using Python and image processing techniques.
+For a beverage company, I was part of the team that developed an artificial intelligence application that checks the
+recognition and accuracy of product labels on the production line.
+University of Malta
+Jul 2023 - Aug 2023 (3 mos)
+AI Researcher
+Maita
+* I worked on a sem-autonomous drone that tries to detect. waste pet bottles on beaches with artificial intelligence. I used
+Python and C++ languages in this project
+TC Diyanet isleri Bagkanhg
+May 2019 - Jul 2022 (3 yrs 3 mos)
+Civil Servant
+Ayonkarhisar, Turkiye
+While studying Mechatronics Engineering at the university, I worked as a civil servant and eammed a living. During these
+three years, the most essential value that this job added to me was to develop myself discipline and determination in
+order to keep the tough school and work life: in balance.
+DHMI Erzurum Airport
+Jul 2022 - Aug 2022 (2 mos)
+Mechatronics Engineer Intern
+Brzurum, Turkiye
+* I worked as an intern in areas such as sensors, electronic cards, x-ray devices in terminal electronics. My most significant
+gain from this internship was learning corporate work discipline and internal relationship techniques.
+Ecodation
+Jun 2021 - Jul 2021 (2 mos)
+Python Developer Intern
+Istanbul, Turkiye
+I made projects such as navigation and customer tracking system for cargo delivery. My main achievement was learning
+to work as a team.
+Projects
+Personalized Product Analysis with AI Python, Net, Huatei Cloud
+Oct 2023
+Our application is designed to help users make informed and healthy choices when purchasing products. By uploading a
+photo of the product's ingredients, the user can get a detailed analysis of how suitable and beneficial the product is for
+them. The application scans the content of the product with artificial intelligence systems and identifies substances that
+may cause allergies or adverse effects that the user has previously dentified. It provides the user with a summary of the
+product's content and the presence or absence of the substances they have identified. Thanks to this application, we
+came 3rd in BIk Academy and Huawei Coding Marathon
+Multi View Breast Cancer Classification App - Python, PyQs, Deep learming
+Apr 2022
+Within the scope of Teknofest artificial intelligence in health competition, the team I captained by developing a
+multi-model deep learning network for the diagnosis of breast cancers succeeded in becoming a finalist.
+Optical Character Recognition with Streamlit I Python, Streamlit, Huggingface
+Jan 2024
+OCR (Optical Character Recognition) technology has transformed how we interact with textual content in the digital
+realm. By converting images, scanned documents, and other media into editable and searchable text, OCR enables us to
+extract valuable information from diverse sources.
+
+--- Page 2 (DocTR) ---
+Technical Skills
+Languages: Python, C/ C++, Matlab, SQL, RobotStudio, Ros, PLC
+Developer Tools: Tensorflow, Pytorch, Google Cloud Platform, Huawei Cloud
+Technologies/Frameworks: Linux, GitHub, Selenium, Docker
+Certificates
+Teknofest Finalist Certificate:13 Foundation
+BTK Academy And Huawei Coding Marathon Certificate of Competitio Winning (3rd)
+EITCA Artificial Intelligence Academy 12 Certificates European Union
+TensorFlow: Advanced Techniques Specialization Coursera
+Google Cloud Expertise Google
+AI Expert Training Program 6 months Republic Of Tirkiye Ministry of Industry and Technology
+Introduction to Machine Learning in Production Coursera
+Hands-on ROS Training with Python :Udemy
+Image processing with deep learning :Udemy
+
+
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+Attributes of Output:
+{"Model Names": ["DocTR"], "Language": "Türkçe", "Device": "CPU", "Process Time": 9.556658029556274}
+OCR Result:
+--- Page 1 (DocTR) ---
+ALPEREN ÇELIK
+- +90 5453851876 peradkisfotgmalcom im.com/m/Aperenell-791aits, 0 llh-com/Alperencls,
+Education
+Afyon Kocatepe University
+Sep. 2018 - Jan 2024
+Bachelor of Mechatronic Engineering
+3.1 gpa
+Relevant Coursework
+Artificial Intelligence
+Software Methodology
+Database Management
+Internet Technology
+Computer Vision
+Algorithms Analysis
+Data Structures
+Systems Programming
+Experience
+Novelty AI
+Sep 2023 - Present
+AI/ML Engineer
+Gebze, Turkiye
+I developed dentification system software for a bank using deep learning techniques. This system aimed to increase
+security by optimizing customer authentication processes and was successfully implemented.
+At a defense industry company, I managed the installation of industrial robots (ABB) on the production line. In this
+project, I provided complex automation solutions to integrate robotic: systems and increase operational efficiency-
+For one of the leading telecom companies in Turkey, I developed software that enables live broadcasting and OTT
+automation with Suitest software using Python and image processing techniques.
+For a beverage company, I was part of the team that developed an artificial intelligence application that checks the
+recognition and accuracy of product labels on the production line.
+University of Malta
+Jul 2023 - Aug 2023 (3 mos)
+AI Researcher
+Maita
+* I worked on a sem-autonomous drone that tries to detect. waste pet bottles on beaches with artificial intelligence. I used
+Python and C++ languages in this project
+TC Diyanet isleri Bagkanhg
+May 2019 - Jul 2022 (3 yrs 3 mos)
+Civil Servant
+Ayonkarhisar, Turkiye
+While studying Mechatronics Engineering at the university, I worked as a civil servant and eammed a living. During these
+three years, the most essential value that this job added to me was to develop myself discipline and determination in
+order to keep the tough school and work life: in balance.
+DHMI Erzurum Airport
+Jul 2022 - Aug 2022 (2 mos)
+Mechatronics Engineer Intern
+Brzurum, Turkiye
+* I worked as an intern in areas such as sensors, electronic cards, x-ray devices in terminal electronics. My most significant
+gain from this internship was learning corporate work discipline and internal relationship techniques.
+Ecodation
+Jun 2021 - Jul 2021 (2 mos)
+Python Developer Intern
+Istanbul, Turkiye
+I made projects such as navigation and customer tracking system for cargo delivery. My main achievement was learning
+to work as a team.
+Projects
+Personalized Product Analysis with AI Python, Net, Huatei Cloud
+Oct 2023
+Our application is designed to help users make informed and healthy choices when purchasing products. By uploading a
+photo of the product's ingredients, the user can get a detailed analysis of how suitable and beneficial the product is for
+them. The application scans the content of the product with artificial intelligence systems and identifies substances that
+may cause allergies or adverse effects that the user has previously dentified. It provides the user with a summary of the
+product's content and the presence or absence of the substances they have identified. Thanks to this application, we
+came 3rd in BIk Academy and Huawei Coding Marathon
+Multi View Breast Cancer Classification App - Python, PyQs, Deep learming
+Apr 2022
+Within the scope of Teknofest artificial intelligence in health competition, the team I captained by developing a
+multi-model deep learning network for the diagnosis of breast cancers succeeded in becoming a finalist.
+Optical Character Recognition with Streamlit I Python, Streamlit, Huggingface
+Jan 2024
+OCR (Optical Character Recognition) technology has transformed how we interact with textual content in the digital
+realm. By converting images, scanned documents, and other media into editable and searchable text, OCR enables us to
+extract valuable information from diverse sources.
+
+--- Page 2 (DocTR) ---
+Technical Skills
+Languages: Python, C/ C++, Matlab, SQL, RobotStudio, Ros, PLC
+Developer Tools: Tensorflow, Pytorch, Google Cloud Platform, Huawei Cloud
+Technologies/Frameworks: Linux, GitHub, Selenium, Docker
+Certificates
+Teknofest Finalist Certificate:13 Foundation
+BTK Academy And Huawei Coding Marathon Certificate of Competitio Winning (3rd)
+EITCA Artificial Intelligence Academy 12 Certificates European Union
+TensorFlow: Advanced Techniques Specialization Coursera
+Google Cloud Expertise Google
+AI Expert Training Program 6 months Republic Of Tirkiye Ministry of Industry and Technology
+Introduction to Machine Learning in Production Coursera
+Hands-on ROS Training with Python :Udemy
+Image processing with deep learning :Udemy
+
+
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+Attributes of Output:
+{"Model Names": ["EasyOCR", "Tesseract", "DocTR"], "Language": "English", "Device": "CPU", "Process Time": 31.933929920196533}
+OCR Result:
+--- Page 1 (DocTR) ---
+ALPEREN ÇELIK
+- +90 5453851876 peradkisfotgmalcom im.com/m/Aperenell-791aits, 0 llh-com/Alperencls,
+Education
+Afyon Kocatepe University
+Sep. 2018 - Jan 2024
+Bachelor of Mechatronic Engineering
+3.1 gpa
+Relevant Coursework
+Artificial Intelligence
+Software Methodology
+Database Management
+Internet Technology
+Computer Vision
+Algorithms Analysis
+Data Structures
+Systems Programming
+Experience
+Novelty AI
+Sep 2023 - Present
+AI/ML Engineer
+Gebze, Turkiye
+I developed dentification system software for a bank using deep learning techniques. This system aimed to increase
+security by optimizing customer authentication processes and was successfully implemented.
+At a defense industry company, I managed the installation of industrial robots (ABB) on the production line. In this
+project, I provided complex automation solutions to integrate robotic: systems and increase operational efficiency-
+For one of the leading telecom companies in Turkey, I developed software that enables live broadcasting and OTT
+automation with Suitest software using Python and image processing techniques.
+For a beverage company, I was part of the team that developed an artificial intelligence application that checks the
+recognition and accuracy of product labels on the production line.
+University of Malta
+Jul 2023 - Aug 2023 (3 mos)
+AI Researcher
+Maita
+* I worked on a sem-autonomous drone that tries to detect. waste pet bottles on beaches with artificial intelligence. I used
+Python and C++ languages in this project
+TC Diyanet isleri Bagkanhg
+May 2019 - Jul 2022 (3 yrs 3 mos)
+Civil Servant
+Ayonkarhisar, Turkiye
+While studying Mechatronics Engineering at the university, I worked as a civil servant and eammed a living. During these
+three years, the most essential value that this job added to me was to develop myself discipline and determination in
+order to keep the tough school and work life: in balance.
+DHMI Erzurum Airport
+Jul 2022 - Aug 2022 (2 mos)
+Mechatronics Engineer Intern
+Brzurum, Turkiye
+* I worked as an intern in areas such as sensors, electronic cards, x-ray devices in terminal electronics. My most significant
+gain from this internship was learning corporate work discipline and internal relationship techniques.
+Ecodation
+Jun 2021 - Jul 2021 (2 mos)
+Python Developer Intern
+Istanbul, Turkiye
+I made projects such as navigation and customer tracking system for cargo delivery. My main achievement was learning
+to work as a team.
+Projects
+Personalized Product Analysis with AI Python, Net, Huatei Cloud
+Oct 2023
+Our application is designed to help users make informed and healthy choices when purchasing products. By uploading a
+photo of the product's ingredients, the user can get a detailed analysis of how suitable and beneficial the product is for
+them. The application scans the content of the product with artificial intelligence systems and identifies substances that
+may cause allergies or adverse effects that the user has previously dentified. It provides the user with a summary of the
+product's content and the presence or absence of the substances they have identified. Thanks to this application, we
+came 3rd in BIk Academy and Huawei Coding Marathon
+Multi View Breast Cancer Classification App - Python, PyQs, Deep learming
+Apr 2022
+Within the scope of Teknofest artificial intelligence in health competition, the team I captained by developing a
+multi-model deep learning network for the diagnosis of breast cancers succeeded in becoming a finalist.
+Optical Character Recognition with Streamlit I Python, Streamlit, Huggingface
+Jan 2024
+OCR (Optical Character Recognition) technology has transformed how we interact with textual content in the digital
+realm. By converting images, scanned documents, and other media into editable and searchable text, OCR enables us to
+extract valuable information from diverse sources.
+
+--- Page 2 (DocTR) ---
+Technical Skills
+Languages: Python, C/ C++, Matlab, SQL, RobotStudio, Ros, PLC
+Developer Tools: Tensorflow, Pytorch, Google Cloud Platform, Huawei Cloud
+Technologies/Frameworks: Linux, GitHub, Selenium, Docker
+Certificates
+Teknofest Finalist Certificate:13 Foundation
+BTK Academy And Huawei Coding Marathon Certificate of Competitio Winning (3rd)
+EITCA Artificial Intelligence Academy 12 Certificates European Union
+TensorFlow: Advanced Techniques Specialization Coursera
+Google Cloud Expertise Google
+AI Expert Training Program 6 months Republic Of Tirkiye Ministry of Industry and Technology
+Introduction to Machine Learning in Production Coursera
+Hands-on ROS Training with Python :Udemy
+Image processing with deep learning :Udemy
+
+
+---------------------------------------------------------------------------
