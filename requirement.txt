@@ -1,0 +1,11 @@
+streamlit
+Pillow
+PyMuPDF
+numpy
+torch
+easyocr
+python-doctr[torch]
+paddlepaddle  # For CPU; for GPU, specify the appropriate version
+paddleocr
+pytesseract
+opencv-python
