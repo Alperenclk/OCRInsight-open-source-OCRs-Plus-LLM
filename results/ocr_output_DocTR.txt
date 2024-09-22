@@ -539,3 +539,34 @@ Image processing with deep learning :Udemy
 
 
 ---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+Attributes of Output:
+{"Model Names": ["EasyOCR", "DocTR", "Tesseract", "PaddleOCR"], "Language": "English", "Device": "CPU", "Process Time": 22.685651779174805}
+OCR Result:
+--- Page 1 (DocTR) ---
+RUNNING. Stop Deploy :
+Settings
+Select Device
+OCR and LLM Application
+e CPU
+O GPU (CUDA)
+Upload File (PDF, Image)
+V Save Outputs
+Drag and drop filel here
+Browse files
+Limit 200MB pert file-PDF,PNG, JPG, JPEG
+Selectlanguage
+English
+Select OCR Models
+EasyOCR X DOcTR x
+Tesseract x PaddleOcR
+SelectLLMN Model
+llama3.1
+Enter command:
+Selecttaskt type:
+e Summarize
+Generate
+
+
+---------------------------------------------------------------------------

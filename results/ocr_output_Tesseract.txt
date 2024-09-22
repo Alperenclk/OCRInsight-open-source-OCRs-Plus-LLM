@@ -110,3 +110,37 @@ Image processing with deep learning -Udeny
 
 
 ---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+Attributes of Output:
+{"Model Names": ["EasyOCR", "DocTR", "Tesseract", "PaddleOCR"], "Language": "English", "Device": "CPU", "Process Time": 22.685651779174805}
+OCR Result:
+--- Page 1 (Tesseract) ---
+< RUNNING... Stop Deploy
+
+Settings
+
+covert OCR and LLM Application
+
+@ cpu
+GPU (CUDA)
+
+@ Save Outputs
+
+Select Language
+English v
+Select OCR Models
+
+Eee Ene
+(Tesseract x) [Paduleoce x) © ~
+
+‘Select LLM Model
+Enter command:
+Select task type:
+
+® Summarize
+Generate
+
+
+
+---------------------------------------------------------------------------

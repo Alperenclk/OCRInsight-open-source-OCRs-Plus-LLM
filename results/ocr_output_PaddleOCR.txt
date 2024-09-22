@@ -221,3 +221,39 @@ https://medium.com/@alperenclk/automating-telegram-game-bot-clicker-with-python-
 
 
 ---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+Attributes of Output:
+{"Model Names": ["EasyOCR", "DocTR", "Tesseract", "PaddleOCR"], "Language": "English", "Device": "CPU", "Process Time": 22.685651779174805}
+OCR Result:
+--- Page 1 (PaddleOCR) ---
+ RUNNING...
+Stop
+ Deploy
+ Settings
+Select Device
+OCR and LLM Application
+O CPU
+Upload File (PDF, Image)
+O GPU (CUDA)
+Save Outputs
+4
+Drag and drop file here.
+Browse files
+imit 200MB per file - PDF, PNG, JPG, JPEG
+Select Language
+ English
+Select OCR Models
+EasyOCR x
+DocTR x
+Tesseract 
+ PaddleOCR x
+Select LLM Mode!
+ llama3.1
+Enter command:
+Select task type:
+O Summarize
+O Generate
+
+
+---------------------------------------------------------------------------
