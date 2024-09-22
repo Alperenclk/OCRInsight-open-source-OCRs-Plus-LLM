@@ -32,7 +32,7 @@ Option to save OCR and LLM outputs to text files.
 ### Clone the Repository
 
 ```bash 
-git clone https://github.com/yourusername/ocr-llm-app.git
+git clone https://github.com/Alperenclk/OCRInsight-open-source-OCRs-Plus-LLM
 cd ocr-llm-app
 ```
 
