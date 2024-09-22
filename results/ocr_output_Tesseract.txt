@@ -1,0 +1,112 @@
+
+---------------------------------------------------------------------------
+Attributes of Output:
+{"Model Names": ["EasyOCR", "Tesseract", "DocTR"], "Language": "English", "Device": "CPU", "Process Time": 31.933929920196533}
+OCR Result:
+--- Page 1 (Tesseract) ---
+ALPEREN CELIK
+
+7-400 5453861875 WB alperoneSTONguil.com inked com/in/alperen-ell-TO95163/€ github, com/ Alperenelk/
+
+Education
+‘Afyon Kocatepe University Sep. 2018 — Jan 2024
+Bachelor of Mechatronic Engineering 3 gpa
+
+Relevant Coursework
+
++ Artifial nteligence + Software Methodology + Database Management» Internet Technology
+2 Cimputer Vision 1 Algartinas Analyste 1 bata Structuses 1 Syatens Progeamtning
+
+Experience
+
+Novelty AI Sep 2028 — Present
+
+AU/ML Engineer Gebse, Tinaye
+
++ Tdeveloped ientication system software fora bank using deep learning techniques. This system aimed to inrease
+sccuit by optimizing eustomer authentication proceses and was sucessfully implemented
+
++ Ata defense industry company, I managed the installation of industrial robots (ABB) om the production tine, In this
+projet, Tprovided complex automation solutions to integrate robotic systems and increase operational eBclene.
+
++ For one of the leading telecom companies in Turkey, I developed software that enable ive broadcasting and OTT
+automation with Sutest software using Python and image procesing techniques
+
++ For a beverage company, Iwas port of the team that developed an artical inteligence application that checks the
+recognition and accuracy of product labels on the production ine
+
+University of Malta Jul 2023 ~ Aug 2028 (3 mos)
+
+AI Researcher Matte
+
++ T worked on @ semi-autonomous drone that Wis to detect waste pet bottles on beads with artical intelligence Y used
+Python and C+ languages inthis project
+
+May 2019 — Jul 2022 (8 yes mos)
+ini Servant Afyonkarhisar, Mirksye
++ While studying Mechatvoles Engineering atthe university, I worked as a ull servant and earned a living. During these
+
+‘htee years, the most essential value that this job added to me was to develop tnyelfdlacplne and detrtnation in
+fonder to keep the tough schol and work fe tn balance
+
+DHMI Erzurum Airport Jul 2022 ~ Aug 2022 (2 mos)
+
+Mechatwonses Engineer Intern Brsurumn, Tirkiye
+
++ T worked an inter in azeas such as sensors electronic cards, s-zay deviees in terminal eeetronies. My most significant
+sain from this interasip was leaening corporate work dicpline and internal yelationship techniques
+
+Ecodation Jun 2021 ~ Jul 2021 (2 mos)
+Python Developer Intern Ibtantad, Taye
+
++ Tmade projects uch as navigation and customer tracking system fr cargo delivery. My main achievement was learning
+to wotk asa teat,
+
+Projects
+
+Personalized Product Analysis with AL| Python, Net, Huawei Clout (Oct 2028
++ Our appleation x designed to help users make informed and healthy choloss when purchasing products, By uploading a
+photo ofthe product's ingredients the user can get detaled analysis of how stable and beneficial the product is for
+‘hem, The application scans the content of the produet with aetiial intelligence systems and identifies substances that
+say cause allergis or adverse effects that the user has previously identified. Te provides the user with a summary’ of the
+‘Product's coutent and the presence or absence ofthe substances they have identified, Thanks to this application, we
+fame Sed in BT Academy and Huawel Coding Marathon
+
+‘Multi View Breast Cancer Classification App | Python, PyQU, Deep loaning Ape 2022
++ Within the scope of Teknofest artical intligence in heath competition, the team T captained ly developing a
+sultimodel dep learning network forthe diagnosis of breast cancers succeded in becoming Bnalst,
+
+Optical Character Recognition with Streamlt | Python, Steamtt, Hagningface Jan 2024
++ OCR (Optical Character Recogution) technology has transformed how we interact with textual content ia the digital
+realm By converting images, seanned documents, and other media into editable and searchable txt, OCR enables Us to
+‘extract valuable infrination from diverse sourecs.
+
+
+--- Page 2 (Tesseract) ---
+‘Technical Skills
+
+Languages: Python, C/ C++, Matlab, SQL, RobotStudlo, Ros, PLE
+Developer Tools: Tensoiow. Pytore Google Cloud Platfnn, Huawel Cloud
+‘Technologies Frameworks: Linus, GitHub, Selenium, Docker
+
+Certificates
+
+‘Telofest Finalist CertfieatecT3 Foundation
+BTK Academy And Huawel Coding Marathon -Certiieate of Compatitio Wining (Sed)
+EITCA Artificial Intelligence Academy 12 Certificates European Union
+
+‘TensorFlow: Advanced Techniques Speciallaation :Coursera
+
+Google Cloud Expertise :G
+
+AT Expert Training Progr dhs. -Republic OF Tiskiye Ministry of Industry and Technology
+Introduction to Machine Learning in Production :Coutsers
+
+Hands-on ROS Training with Python idem
+
+Image processing with deep learning -Udeny
+
+
+
+
+---------------------------------------------------------------------------
